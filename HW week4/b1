@@ -1,0 +1,5 @@
+n = int(input("Ex1: "))
+lst = []
+for i in range(n+1):
+    lst.append(i)
+print(sum(lst))
